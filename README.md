@@ -1,4 +1,4 @@
-Hola, soy LeoManzana, un desarrollador de videojuegos, principalmente de android. Actualmente estoy trabajando en un videojuego llamado "Meow Milk", que espero yo, que logre tener algo de exito
+¡Hola soy LeoManzana!, tengo 15 años y me gusta programar
 
 Mi fruta favorita es la manzana
 
