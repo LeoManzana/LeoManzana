@@ -1,4 +1,4 @@
-¡Hola soy LeoManzana!, tengo 15 años y me gusta programar
+¡Hola soy LeoManzana!, tengo 16 años y me gusta programar
 
 Mi fruta favorita es la manzana
 
